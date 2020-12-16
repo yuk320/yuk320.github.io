@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to yuk320's blog
 
-You can use the [editor on GitHub](https://github.com/yuk320/yuk320.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+
+You can use the [news-1](https://yuk320.github.io/news/1) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
